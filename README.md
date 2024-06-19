@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209037.gif">
 <p align="left"> <a href="https://twitter.com/jorgeupx" target="blank"><img src="https://img.shields.io/twitter/follow/jorgeupx?logo=twitter&style=for-the-badge" alt="jorgeupx" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Proxies, Heko Automation and secondary projects**
+- 🔭 I’m currently working on **Cloud Proxies, Bet Hero and secondary projects**
 
 - 🌱 I’m currently learning **C++, JavaFx, Reverse engineering**
 
