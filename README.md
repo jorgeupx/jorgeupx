@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorgeupx</h1>
-<h3 align="center">A Computer Engineering student and backend developer</h3>
+<h3 align="center">A self taught software engineer and backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209037.gif">
 <p align="left"> <a href="https://twitter.com/jorgeupx" target="blank"><img src="https://img.shields.io/twitter/follow/jorgeupx?logo=twitter&style=for-the-badge" alt="jorgeupx" /></a> </p>
 
