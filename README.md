@@ -10,7 +10,6 @@
 
 <a href="mailto:jorgeupxdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://twitter.com/Jorgeupx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Jorgeupx&style=for-the-badge&color=FF1744&label=Profile+Views" />
 
 </div>
 
@@ -73,16 +72,6 @@ var jorgeupx = Engineer{
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/jorgeupx/jorgeupx/main/specialties.svg" alt="Expert specialty badges" />
-
-</div>
-
----
-
-### 🔥 &nbsp; Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/FF1744/Jorgeupx" alt="Jorgeupx's contribution heatmap" width="100%" />
 
 </div>
 
