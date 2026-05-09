@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Expert specialty badges: Engineer, Backend, Networking, Product Designer">
+  <defs>
+    <g id="card-bg">
+      <rect width="138" height="130" rx="8" fill="#161b22"/>
+      <rect width="138" height="130" rx="8" fill="none" stroke="#FF1744" stroke-opacity="0.4" stroke-width="1"/>
+    </g>
+  </defs>
+
+  <!-- Card 1: Engineer -->
+  <g transform="translate(6, 5)">
+    <use href="#card-bg"/>
+    <circle cx="69" cy="36" r="22" fill="#FF1744" fill-opacity="0.08"/>
+    <g transform="translate(69, 36)" stroke="#FF1744" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M -10,-7 L -16,0 L -10,7"/>
+      <path d="M 10,-7 L 16,0 L 10,7"/>
+      <line x1="-4" y1="9" x2="4" y2="-9"/>
+    </g>
+    <text x="69" y="73" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#FF1744" letter-spacing="2.5">EXPERT</text>
+    <text x="69" y="93" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Engineer</text>
+    <line x1="54" y1="105" x2="84" y2="105" stroke="#FF1744" stroke-width="1.5" opacity="0.65"/>
+  </g>
+
+  <!-- Card 2: Backend -->
+  <g transform="translate(156, 5)">
+    <use href="#card-bg"/>
+    <circle cx="69" cy="36" r="22" fill="#FF1744" fill-opacity="0.08"/>
+    <g transform="translate(69, 36)">
+      <rect x="-13" y="-13" width="26" height="7" rx="1.5" fill="none" stroke="#FF1744" stroke-width="2"/>
+      <rect x="-13" y="-3" width="26" height="7" rx="1.5" fill="none" stroke="#FF1744" stroke-width="2"/>
+      <rect x="-13" y="7" width="26" height="7" rx="1.5" fill="none" stroke="#FF1744" stroke-width="2"/>
+      <circle cx="-8" cy="-9" r="1.2" fill="#FF1744"/>
+      <circle cx="-8" cy="0" r="1.2" fill="#FF1744"/>
+      <circle cx="-8" cy="11" r="1.2" fill="#FF1744"/>
+    </g>
+    <text x="69" y="73" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#FF1744" letter-spacing="2.5">EXPERT</text>
+    <text x="69" y="93" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Backend</text>
+    <line x1="54" y1="105" x2="84" y2="105" stroke="#FF1744" stroke-width="1.5" opacity="0.65"/>
+  </g>
+
+  <!-- Card 3: Networking -->
+  <g transform="translate(306, 5)">
+    <use href="#card-bg"/>
+    <circle cx="69" cy="36" r="22" fill="#FF1744" fill-opacity="0.08"/>
+    <g transform="translate(69, 36)" stroke="#FF1744" stroke-width="1.5" stroke-opacity="0.7" fill="none">
+      <line x1="0" y1="-13" x2="-13" y2="0"/>
+      <line x1="0" y1="-13" x2="13" y2="0"/>
+      <line x1="-13" y1="0" x2="0" y2="13"/>
+      <line x1="13" y1="0" x2="0" y2="13"/>
+      <line x1="-13" y1="0" x2="13" y2="0" stroke-opacity="0.5"/>
+      <line x1="0" y1="-13" x2="0" y2="13" stroke-opacity="0.5"/>
+    </g>
+    <g transform="translate(69, 36)" fill="#FF1744">
+      <circle cx="0" cy="-13" r="3.5"/>
+      <circle cx="-13" cy="0" r="3.5"/>
+      <circle cx="13" cy="0" r="3.5"/>
+      <circle cx="0" cy="13" r="3.5"/>
+    </g>
+    <text x="69" y="73" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#FF1744" letter-spacing="2.5">EXPERT</text>
+    <text x="69" y="93" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Networking</text>
+    <line x1="54" y1="105" x2="84" y2="105" stroke="#FF1744" stroke-width="1.5" opacity="0.65"/>
+  </g>
+
+  <!-- Card 4: Product Designer -->
+  <g transform="translate(456, 5)">
+    <use href="#card-bg"/>
+    <circle cx="69" cy="36" r="22" fill="#FF1744" fill-opacity="0.08"/>
+    <g transform="translate(69, 36)">
+      <rect x="-14" y="-11" width="28" height="22" rx="2" fill="none" stroke="#FF1744" stroke-width="2"/>
+      <line x1="-10" y1="-6" x2="-2" y2="-6" stroke="#FF1744" stroke-width="2" stroke-linecap="round"/>
+      <rect x="-10" y="-1" width="7" height="7" fill="#FF1744" fill-opacity="0.75"/>
+      <rect x="-1" y="-1" width="7" height="3" fill="#FF1744" fill-opacity="0.45"/>
+      <rect x="-1" y="3" width="7" height="3" fill="#FF1744" fill-opacity="0.45"/>
+    </g>
+    <text x="69" y="73" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#FF1744" letter-spacing="2.5">EXPERT</text>
+    <text x="69" y="93" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#ffffff">Product Designer</text>
+    <line x1="54" y1="105" x2="84" y2="105" stroke="#FF1744" stroke-width="1.5" opacity="0.65"/>
+  </g>
+</svg>
