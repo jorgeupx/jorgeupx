@@ -1,22 +1,97 @@
-<h1 align="center">Hi 👋, I'm Jorgeupx</h1>
-<h3 align="center">A self taught software engineer and backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/209/209037.gif">
-<p align="left"> <a href="https://twitter.com/jorgeupx" target="blank"><img src="https://img.shields.io/twitter/follow/jorgeupx?logo=twitter&style=for-the-badge" alt="jorgeupx" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Cloud Proxies, Bet Hero and Betware**
+<img src="https://raw.githubusercontent.com/jorgeupx/jorgeupx/main/banner.svg" alt="Jorgeupx — Backend Engineer · Self-taught · Always building" width="100%" />
 
-- 💬 Ask me about **Networking, Computer science, backend coding...**
+<a href="https://github.com/Jorgeupx">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=720&lines=%24+whoami;Self-taught+software+engineer.;Backend+%2F+networking+%2F+distributed+systems.;Currently+building%3A+Cloud+Proxies%2C+Bet+Hero%2C+Betware.;%24+_" alt="Typing intro" />
+</a>
 
-- 📫 How to reach me **jorgeupxdev@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jorgeupx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgeupx" height="30" width="40" /></a>
-</p>
+<a href="mailto:jorgeupxdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/Jorgeupx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Jorgeupx&style=for-the-badge&color=FF1744&label=Profile+Views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeupx&show_icons=true&locale=en" alt="jorgeupx" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeupx&" alt="jorgeupx" /></p>
+### 😈 &nbsp; About me
+
+```go
+package main
+
+type Engineer struct {
+    Role              string
+    SelfTaught        bool
+    CurrentlyBuilding []string
+    ObsessedWith      []string
+    AskMeAbout        []string
+    AboutMe           string
+}
+
+var jorgeupx = Engineer{
+    Role:              "Backend Engineer",
+    SelfTaught:        true,
+    CurrentlyBuilding: []string{"Cloud Proxies", "Bet Hero", "Betware"},
+    ObsessedWith:      []string{"networking", "distributed systems", "hacking"},
+    AskMeAbout:        []string{"backend", "computer science", "scaling stuff"},
+    AboutMe:           "I learned to code and build enterprise systems without a CS degree.",
+}
+```
+
+---
+
+### 🧰 &nbsp; Tech I actually use
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=go,python,java,js,ts,c,cpp,bash&theme=dark" />
+<br/>
+<!-- Backend / infra -->
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx,redis,postgres,mongodb,mysql&theme=dark" />
+<br/>
+<!-- DevOps / cloud / tooling -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,git,github,vscode,idea&theme=dark" />
+
+</div>
+
+---
+
+### 📊 &nbsp; The numbers
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jorgeupx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeupx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF1744&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Jorgeupx&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/jorgeupx/jorgeupx/main/specialties.svg" alt="Expert specialty badges" />
+
+</div>
+
+---
+
+### 🔥 &nbsp; Contributions
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/FF1744/Jorgeupx" alt="Jorgeupx's contribution heatmap" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF1744,50:8B0000,100:0d1117&height=120&section=footer" width="100%" />
+
+<sub>🔥 <i>"Watch my work take over the world."</i></sub>
+
+</div>
